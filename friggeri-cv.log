@@ -1,0 +1,420 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=latex 2014.1.20)  5 FEB 2014 14:41
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**friggeri-cv.cls
+(./friggeri-cv.cls
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+
+LaTeX Warning: You have requested package `',
+               but the package provides `friggeri-cv'.
+
+Package: friggeri-cv 2012/04/30 CV class
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: dvips.def on input line 225.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+
+./friggeri-cv.cls:30: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 \ifdefined\@c
+                  v@print
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/unicode-math/unicode-math.sty
+Package: unicode-math 2013/05/04 v0.7e Unicode maths in XeLaTeX and LuaLaTeX
+
+
+/usr/local/texlive/2013/texmf-dist/tex/latex/unicode-math/unicode-math.sty:21: 
+LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \usepackage{
+                 ifxetex,ifluatex}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+/usr/local/texlive/2013/texmf-dist/tex/latex/unicode-math/unicode-math.sty:22: 
+Undefined control sequence.
+l.22 \ifxetex
+             
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2013/texmf-dist/tex/latex/unicode-math/unicode-math.sty:23: 
+Undefined control sequence.
+l.23   \ifdim\number\XeTeXversion
+                                 \XeTeXrevision in<0.9998in%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2013/texmf-dist/tex/latex/unicode-math/unicode-math.sty:23: 
+Undefined control sequence.
+l.23   \ifdim\number\XeTeXversion\XeTeXrevision
+                                                in<0.9998in%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2013/texmf-dist/tex/latex/unicode-math/unicode-math.sty:23: 
+Missing number, treated as zero.
+<to be read again> 
+                   i
+l.23   \ifdim\number\XeTeXversion\XeTeXrevision i
+                                                 n<0.9998in%
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+/usr/local/texlive/2013/texmf-dist/tex/latex/unicode-math/unicode-math.sty:27: 
+Package unicode-math Error: Cannot run with this version of XeTeX!
+(unicode-math)                You need XeTeX 0.9998 or newer..
+
+See the unicode-math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27     }\@ehd
+               
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+/usr/local/texlive/2013/texmf-dist/tex/latex/unicode-math/unicode-math.sty:29: 
+Extra \else.
+l.29 \else
+          \ifluatex
+I'm ignoring this; it doesn't match any \if.
+
+/usr/local/texlive/2013/texmf-dist/tex/latex/unicode-math/unicode-math.sty:29: 
+Undefined control sequence.
+l.29 \else\ifluatex
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2013/texmf-dist/tex/latex/unicode-math/unicode-math.sty:30: 
+Undefined control sequence.
+l.30   \ifnum\luatexversion
+                           <64%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2013/texmf-dist/tex/latex/unicode-math/unicode-math.sty:30: 
+Missing number, treated as zero.
+<to be read again> 
+                   <
+l.30   \ifnum\luatexversion<
+                            64%
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+
+/usr/local/texlive/2013/texmf-dist/tex/latex/unicode-math/unicode-math.sty:34: 
+Package unicode-math Error: Cannot run with this version of LuaTeX!
+(unicode-math)                You need LuaTeX 0.64 or newer..
+
+See the unicode-math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34     }\@ehd
+               
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+/usr/local/texlive/2013/texmf-dist/tex/latex/unicode-math/unicode-math.sty:36: 
+Extra \else.
+l.36 \else
+          
+I'm ignoring this; it doesn't match any \if.
+
+
+/usr/local/texlive/2013/texmf-dist/tex/latex/unicode-math/unicode-math.sty:40: 
+Package unicode-math Error: Cannot be run with pdfLaTeX!
+(unicode-math)                Use XeLaTeX or LuaLaTeX instead..
+
+See the unicode-math package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40   }\@ehd
+             
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+/usr/local/texlive/2013/texmf-dist/tex/latex/unicode-math/unicode-math.sty:41: 
+Extra \fi.
+l.41 \fi
+        \fi
+I'm ignoring this; it doesn't match any \if.
+
+/usr/local/texlive/2013/texmf-dist/tex/latex/unicode-math/unicode-math.sty:41: 
+Extra \fi.
+l.41 \fi\fi
+           
+I'm ignoring this; it doesn't match any \if.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/expl3.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3names.sty
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3bootstrap.sty
+Package: l3bootstrap 2013/01/08 v4420 L3 Experimental bootstrap code
+)
+Package: l3names 2012/12/07 v4346 L3 Namespace for primitives
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count87
+)
+Package: expl3 2013/03/14 v4469 L3 Experimental code bundle wrapper
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3basics.sty
+Package: l3basics 2013/01/10 v4428 L3 Basic definitions
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3expan.sty
+Package: l3expan 2013/02/03 v4458 L3 Argument expansion
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3tl.sty
+Package: l3tl 2013/01/08 v4415 L3 Token lists
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3seq.sty
+Package: l3seq 2013/01/12 v4434 L3 Sequences and stacks
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3int.sty
+Package: l3int 2013/01/13 v4444 L3 Integers
+\c_max_int=\count88
+\l_tmpa_int=\count89
+\l_tmpb_int=\count90
+\g_tmpa_int=\count91
+\g_tmpb_int=\count92
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3quark.sty
+Package: l3quark 2012/11/04 v4268 L3 Quarks
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3prg.sty
+Package: l3prg 2013/02/13 v4459 L3 Control structures
+\g__prg_map_int=\count93
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3clist.sty
+Package: l3clist 2013/01/08 v4414 L3 Comma separated lists
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3token.sty
+Package: l3token 2013/01/10 v4428 L3 Experimental token manipulation
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3prop.sty
+Package: l3prop 2013/01/09 v4423 L3 Property lists
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3msg.sty
+Package: l3msg 2013/01/08 v4412 L3 Messages
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3file.sty
+Package: l3file 2013/01/14 v4446 L3 File and I/O operations
+\l_iow_line_count_int=\count94
+\l__iow_target_count_int=\count95
+\l__iow_current_line_int=\count96
+\l__iow_current_word_int=\count97
+\l__iow_current_indentation_int=\count98
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3skip.sty
+Package: l3skip 2013/01/13 v4444 L3 Dimensions and skips
+\c_zero_dim=\dimen103
+\c_max_dim=\dimen104
+\l_tmpa_dim=\dimen105
+\l_tmpb_dim=\dimen106
+\g_tmpa_dim=\dimen107
+\g_tmpb_dim=\dimen108
+\c_zero_skip=\skip43
+\c_max_skip=\skip44
+\l_tmpa_skip=\skip45
+\l_tmpb_skip=\skip46
+\g_tmpa_skip=\skip47
+\g_tmpb_skip=\skip48
+\c_zero_muskip=\muskip10
+\c_max_muskip=\muskip11
+\l_tmpa_muskip=\muskip12
+\l_tmpb_muskip=\muskip13
+\g_tmpa_muskip=\muskip14
+\g_tmpb_muskip=\muskip15
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3keys.sty
+Package: l3keys 2013/02/24 v4461 L3 Experimental key-value interfaces
+\g__keyval_level_int=\count99
+\l_keys_choice_int=\count100
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3fp.sty
+Package: l3fp 2013/01/19 v4449 L3 Floating points
+\c__fp_leading_shift_int=\count101
+\c__fp_middle_shift_int=\count102
+\c__fp_trailing_shift_int=\count103
+\c__fp_big_leading_shift_int=\count104
+\c__fp_big_middle_shift_int=\count105
+\c__fp_big_trailing_shift_int=\count106
+\c__fp_Bigg_leading_shift_int=\count107
+\c__fp_Bigg_middle_shift_int=\count108
+\c__fp_Bigg_trailing_shift_int=\count109
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3box.sty
+Package: l3box 2013/01/08 v4411 L3 Experimental boxes
+\c_empty_box=\box26
+\l_tmpa_box=\box27
+\l_tmpb_box=\box28
+\g_tmpa_box=\box29
+\g_tmpb_box=\box30
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3coffins.sty
+Package: l3coffins 2012/09/09 v4212 L3 Coffin code layer
+\l__coffin_internal_box=\box31
+\l__coffin_internal_dim=\dimen109
+\l__coffin_offset_x_dim=\dimen110
+\l__coffin_offset_y_dim=\dimen111
+\l__coffin_x_dim=\dimen112
+\l__coffin_y_dim=\dimen113
+\l__coffin_x_prime_dim=\dimen114
+\l__coffin_y_prime_dim=\dimen115
+\c_empty_coffin=\box32
+\l__coffin_aligned_coffin=\box33
+\l__coffin_aligned_internal_coffin=\box34
+\l_tmpa_coffin=\box35
+\l_tmpb_coffin=\box36
+\l__coffin_display_coffin=\box37
+\l__coffin_display_coord_coffin=\box38
+\l__coffin_display_pole_coffin=\box39
+\l__coffin_display_offset_dim=\dimen116
+\l__coffin_display_x_dim=\dimen117
+\l__coffin_display_y_dim=\dimen118
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3color.sty
+Package: l3color 2012/08/29 v4156 L3 Experimental color support
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3luatex.sty
+Package: l3luatex 2012/08/03 v4049 L3 Experimental LuaTeX-specific functions
+\g__cctab_allocate_int=\count110
+\g__cctab_stack_int=\count111
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3kernel/l3candidates.sty
+Package: l3candidates 2013/03/14 v4468 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen119
+\l__box_bottom_dim=\dimen120
+\l__box_left_dim=\dimen121
+\l__box_right_dim=\dimen122
+\l__box_top_new_dim=\dimen123
+\l__box_bottom_new_dim=\dimen124
+\l__box_left_new_dim=\dimen125
+\l__box_right_new_dim=\dimen126
+\l__box_internal_box=\box40
+\l__coffin_bounding_shift_dim=\dimen127
+\l__coffin_left_corner_dim=\dimen128
+\l__coffin_right_corner_dim=\dimen129
+\l__coffin_bottom_corner_dim=\dimen130
+\l__coffin_top_corner_dim=\dimen131
+\l__coffin_scaled_total_height_dim=\dimen132
+\l__coffin_scaled_width_dim=\dimen133
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2013/03/12 v4467 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count112
+\l__xparse_m_args_int=\count113
+\l__xparse_mandatory_args_int=\count114
+\l__xparse_processor_int=\count115
+\l__xparse_v_nesting_int=\count116
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2013/03/12 v4467 LaTeX2e option processing using LaTeX3 keys
+) (/usr/local/texlive/2013/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2013/05/20 v2.3c Font selection for XeLaTeX and LuaLaTeX
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+/usr/local/texlive/2013/texmf-dist/tex/latex/fontspec/fontspec.sty:41: Fatal fo
+ntspec error: "cannot-use-pdftex"
+! 
+! The fontspec package requires either XeTeX or LuaTeX to function.
+! 
+! You must change your typesetting engine to, e.g., "xelatex" or "lualatex"
+! instead of plain "latex" or "pdflatex".
+! 
+! See the fontspec documentation for further information.
+! 
+! For immediate help type H <return>.
+!...............................................  
+                                                  
+l.41  }
+       
+|'''''''''''''''''''''''''''''''''''''''''''''''
+| This is a fatal error: LaTeX will abort
+|...............................................
+
+ ) ) ) 
+Here is how much of TeX's memory you used:
+ 6053 strings out of 493316
+ 111216 string characters out of 6137930
+ 150242 words of memory out of 5000000
+ 9491 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 37i,1n,35p,232b,85s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+No pages of output.
