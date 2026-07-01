@@ -1,8 +1,8 @@
 ## FLOWCHART test
 
 
-
-graph TD;
+'''mermaid
+graph TD
     %% Define Styles
     classDef hardware fill:#f9f,stroke:#333,stroke-width:2px;
     classDef preprocessing fill:#bbf,stroke:#333,stroke-width:2px;
@@ -59,3 +59,4 @@ graph TD;
     class C,D,E,F1,F2,G,H preprocessing;
     class J,K,L,M,N,O training;
     class P,Q,R,S,T offline;
+'''
