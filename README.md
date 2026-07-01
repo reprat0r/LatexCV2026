@@ -3,7 +3,7 @@
 Below is the complete architectural workflow for processing the 5-channel early fusion image data.
 
 ```mermaid
-graph TD
+graph LR
     %% Define Styles
     classDef hardware fill:#f9f,stroke:#333,stroke-width:2px;
     classDef preprocessing fill:#bbf,stroke:#333,stroke-width:2px;
